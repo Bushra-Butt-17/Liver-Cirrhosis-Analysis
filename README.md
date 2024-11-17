@@ -161,7 +161,7 @@ plt.show()
 ```
 
 ---
-
+##Contributors
 
 Feel free to contribute by opening issues, forking the repository, and submitting pull requests!
 
