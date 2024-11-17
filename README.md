@@ -36,5 +36,5 @@ To get started with this project locally, follow the steps below:
 Clone the repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/<your-username>/<repository-name>.git
+git clone https://github.com/Bushra-Butt-17/Liver-Cirrhosis-Analysis.git
 
