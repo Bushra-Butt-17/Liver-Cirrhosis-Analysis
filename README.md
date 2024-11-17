@@ -1,6 +1,5 @@
 
 
-```markdown
 # Liver Cirrhosis Analysis
 
 ## Project Overview
