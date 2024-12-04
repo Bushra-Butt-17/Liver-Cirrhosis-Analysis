@@ -6,7 +6,6 @@
   <a href="https://giphy.com/embed/DQ2Phz0sHVJGU" target="_blank">
     <img src="https://media.giphy.com/media/DQ2Phz0sHVJGU/giphy.gif" alt="Tech News GIF" style="max-width: 100%; height: auto;" />
   </a>
-  <p><i>Click the GIF for full-screen view</i></p>
 </div>
 
 
