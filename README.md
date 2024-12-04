@@ -2,10 +2,12 @@
 ---
 
 # 🩺 Liver Cirrhosis Analysis
-
 <div align="center">
- <iframe src="https://giphy.com/embed/DQ2Phz0sHVJGU" width="480" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gifnews-tech-news-DQ2Phz0sHVJGU">via GIPHY</a></p>
+  <a href="https://giphy.com/gifs/gifnews-tech-news-DQ2Phz0sHVJGU">
+    <img src="https://media.giphy.com/media/DQ2Phz0sHVJGU/giphy.gif" alt="Tech News GIF" width="480" height="480" />
+  </a>
 </div>
+
 
 ## 📝 Project Overview
 
