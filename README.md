@@ -3,7 +3,9 @@
 
 # 🩺 Liver Cirrhosis Analysis
 
-![image](https://github.com/user-attachments/assets/efb02409-d3aa-4482-ab7c-8348f019c63d)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/efb02409-d3aa-4482-ab7c-8348f019c63d" alt="Liver Cirrhosis Analysis" />
+</div>
 
 ## 📝 Project Overview
 
