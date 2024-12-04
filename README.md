@@ -3,6 +3,8 @@
 
 # 🩺 Liver Cirrhosis Analysis
 
+![image](https://github.com/user-attachments/assets/efb02409-d3aa-4482-ab7c-8348f019c63d)
+
 ## 📝 Project Overview
 
 This project provides an in-depth analysis of **Liver Cirrhosis** using clinical data. The objective is to explore the relationship between various **biomarkers** (e.g., **Bilirubin**, **Copper**, **Alkaline Phosphatase**) and **patient demographics** (e.g., **Age**, **Sex**) to understand the progression of the disease. 
