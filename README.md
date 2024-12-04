@@ -3,9 +3,10 @@
 
 # 🩺 Liver Cirrhosis Analysis
 <div align="center">
-  <a href="https://giphy.com/gifs/gifnews-tech-news-DQ2Phz0sHVJGU">
-    <img src="https://media.giphy.com/media/DQ2Phz0sHVJGU/giphy.gif" alt="Tech News GIF" width="480" height="480" />
+  <a href="https://giphy.com/embed/DQ2Phz0sHVJGU" target="_blank">
+    <img src="https://media.giphy.com/media/DQ2Phz0sHVJGU/giphy.gif" alt="Tech News GIF" style="max-width: 100%; height: auto;" />
   </a>
+  <p><i>Click the GIF for full-screen view</i></p>
 </div>
 
 
