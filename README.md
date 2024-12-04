@@ -162,6 +162,14 @@ plt.show()
 
 ![image](https://github.com/user-attachments/assets/a7dee374-df62-4425-aa84-6a32204dc97d)
 
+
+![image](https://github.com/user-attachments/assets/2c6f09ed-2bbe-441e-b05d-e846eff473bc)
+
+![image](https://github.com/user-attachments/assets/0fb4ee43-4c71-4b2f-9806-ed70fe1e1105)
+
+
+![image](https://github.com/user-attachments/assets/e54ef277-77ff-4233-8329-63b8bed32030)
+
 ---
 
 ## 👩‍💻 Contributors
